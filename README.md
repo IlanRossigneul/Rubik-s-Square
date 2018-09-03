@@ -1,6 +1,6 @@
 # Rubik-s-Square
 
-#### Project realized in two days at the end of two weeks of learning in C at the Coding Academy by Epitech.
+#### Project realized in two days at the end of two weeks learning C at the Coding Academy by Epitech.
 
 We were asked to solve a defined Rubik's Square with imposed methods (semi brute force). I decided to improve the program by adding a shuffle to the initialization, delays between each movement and a clear system for clarity.
 
